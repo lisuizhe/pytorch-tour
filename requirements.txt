@@ -2,6 +2,8 @@ ipykernel
 matplotlib
 numpy
 pandas
+scikit-learn
 tensorboard
 torch
+torchmetrics
 torchvision
