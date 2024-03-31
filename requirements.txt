@@ -1,5 +1,6 @@
 ipykernel
 matplotlib
+mlxtend
 numpy
 pandas
 scikit-learn
@@ -7,3 +8,4 @@ tensorboard
 torch
 torchmetrics
 torchvision
+tqdm
