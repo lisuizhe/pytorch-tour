@@ -3,9 +3,11 @@ matplotlib
 mlxtend
 numpy
 pandas
+requests
 scikit-learn
 tensorboard
 torch
+torchinfo
 torchmetrics
 torchvision
 tqdm
